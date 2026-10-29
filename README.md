@@ -65,3 +65,16 @@ Detailed project documentation and presentation are available in the `docs` fold
 ## Disclaimer
 
 This project is an academic machine learning project and is not intended to provide medical diagnosis or replace professional medical advice.
+
+## 📸 Project Screenshots
+
+### Application Interface
+
+![Application Interface](Screenshots<img width="624" height="331" alt="dataset imgs" src="https://github.com/user-attachments/assets/d978b7c6-c93f-42fb-83ec-06fe565c5590" />
+)
+
+### Prediction Results
+
+![Prediction Results](Screenshots<img width="624" height="325" alt="Analysis" src="https://github.com/user-attachments/assets/a1adaea0-5758-4cf2-b56f-7e27f06671d1" />
+png)
+
